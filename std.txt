@@ -1,0 +1,7 @@
+std
+temperature - coherence : 0.447
+temperature - fluency : 0.325
+temperature - conciseness : 0.503
+temperature - originality : 0.503
+max_length - clarity : 0.118
+max_length - originality : 0.184

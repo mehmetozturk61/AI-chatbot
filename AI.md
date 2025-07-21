@@ -1,4 +1,4 @@
-## Deep Learning
+## Deep Learning 
 ### Deep Learning Basics
 Deep learning is a subset of machine learning focused on neural networks with many layers.
 #### What are neurons and layers?
